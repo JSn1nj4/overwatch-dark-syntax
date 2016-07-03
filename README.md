@@ -9,7 +9,7 @@ I changed the colors to make it more attached to the Overwatch palette.
 ## Install
 
 ```
-apm install firewatch-hot-syntax
+apm install overwatch-dark-syntax
 ```
 Or you can search it:
 * If you in Linux, click on **Edit > Preference** and go to **Themes**, on search type **"overwatch-dark-syntax"**
