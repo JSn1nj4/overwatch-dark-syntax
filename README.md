@@ -1,4 +1,4 @@
-## Firewatch Hot Syntax Theme
+## Overwatch Dark Syntax Theme
 
 ![overwatch-dark-syntax](https://raw.githubusercontent.com/nektwar/overwatch-dark-syntax/master/screenshot.png)
 
