@@ -14,3 +14,11 @@ apm install firewatch-hot-syntax
 Or you can search it:
 * If you in Linux, click on **Edit > Preference** and go to **Themes**, on search type **"overwatch-dark-syntax"**
 * Windows: **File > Preference > Themes** and search **"overwatch-dark-syntax"**
+
+## Languages supported:
+* CSS
+* JAVA
+* JavaScript
+* Json
+* Python
+* Ruby
