@@ -5,10 +5,9 @@
   "description": "A dark Overwatch syntax theme.",
   "keywords": [
     "dark",
-    "red",
-    "firewatch",
-    "syntax",
-    "hot"
+    "orange",
+    "overwatch",
+    "syntax"
   ],
   "repository": "https://github.com/nektwar/overwatch-dark-syntax",
   "license": "MIT",
