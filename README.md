@@ -12,7 +12,7 @@ I changed the colors to make it more attached to the Overwatch palette.
 apm install overwatch-dark-syntax
 ```
 Or you can search it:
-* If you in Linux, click on **Edit > Preference** and go to **Install**, change package option to themes and on search type **"overwatch-dark-syntax"**
+* If you are in Linux, click on **Edit > Preference** and go to **Install**, change package option to themes and on search type **"overwatch-dark-syntax"**
 * Windows: **File > Settings > Install**, change Package to Themes and search **"overwatch-dark-syntax"**
 
 ## Languages supported:
