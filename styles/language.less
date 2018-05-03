@@ -200,62 +200,62 @@
   }
 }
 
-.meta {
-  &.class {
+.syntax--meta {
+  &.syntax--class {
     color: @hue-6-2;
 
-    &.body {
+    &.syntax--body {
       color: @mono-1;
     }
   }
 
-  &.method-call,
-  &.method {
+  &.syntax--method-call,
+  &.syntax--method {
     color: @mono-1;
   }
 
-  &.definition {
-    &.variable {
+  &.syntax--definition {
+    &.syntax--variable {
       color: @hue-5;
     }
   }
 
-  &.link {
+  &.syntax--link {
     color: @hue-6;
   }
 
-  &.require {
+  &.syntax--require {
     color: @hue-2;
   }
 
-  &.selector {
+  &.syntax--selector {
     color: @hue-3;
   }
 
-  &.separator {
+  &.syntax--separator {
     background-color: #373b41;
     color: @mono-1;
   }
 
-  &.tag {
+  &.syntax--tag {
     color: @mono-1;
   }
 }
 
-.underline {
+.syntax--underline {
   text-decoration: underline;
 }
 
-.none {
+.syntax--none {
   color: @mono-1;
 }
 
-.invalid {
-  &.deprecated {
+.syntax--invalid {
+  &.syntax--deprecated {
     color: @syntax-deprecated-fg !important;
     background-color: @syntax-deprecated-bg !important;
   }
-  &.illegal {
+  &.syntax--illegal {
     color: @syntax-illegal-fg !important;
     background-color: @syntax-illegal-bg !important;
   }
