@@ -1,7 +1,7 @@
 {
-  "name": "overwatch-dark-syntax",
+  "name": "overwatch-dark-syntax-jsn1nj4",
   "theme": "syntax",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "A dark Overwatch syntax theme.",
   "keywords": [
     "dark",
@@ -9,7 +9,7 @@
     "overwatch",
     "syntax"
   ],
-  "repository": "https://github.com/nektwar/overwatch-dark-syntax",
+  "repository": "https://github.com/JSn1nj4/overwatch-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.13.0"
